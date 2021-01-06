@@ -1,8 +1,9 @@
 # keymouse-loger
 
-*Attention*               *Attention*
+*Attention********************Attention*
 
-
+You have to make a change in the keymouse source script. You have to enter your IP version 4 in line 15 instead of the word IP for the tool to work properly.
+Also, when you run the server script, you must enter the same IP when it asks you for an IP.
 
 
 This script keyloger
