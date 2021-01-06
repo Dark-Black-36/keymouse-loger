@@ -27,6 +27,16 @@ print(Fore.CYAN+"""
 
 """+Fore.RESET)
 
+print(Fore.LIGHTBLACK_EX+"""
+####################################################################################
+#                                                                                  #
+#                          coded by: Black Darck                                   #
+#                          version : 1.0                                           #
+#                          telegram : BlackDarck36                                 #
+#                                                                                  #
+####################################################################################
+"""+Fore.RESET)
+
 
 ip =input(Fore.LIGHTRED_EX+str("enter your ip :")+Fore.RESET)
 
