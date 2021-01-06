@@ -1,2 +1,2 @@
 # keymouse
-با استفاده از این اسکریپت شما میتوانید کیبورد موس هدف را زیر نظر بگیرید . من در این جا برای شما تنها سورس سرور و تارگت قرار داده ام ولی شما خودتان میتوانید با استفاده از کتابخانه auto-py-to-exe سورس تارگت را به فایل exe تبدیل کنید و استفاده کنید .
+Using this script, you can monitor the target mouse keyboard. I have provided only the server and target source for you here, but you can convert and use the target source to exe file yourself using the auto-py-to-exe library.
