@@ -45,7 +45,7 @@ ip =input(Fore.LIGHTRED_EX+str("enter your ip :")+Fore.RESET)
 
 
 s = socket.socket(socket.AF_INET , socket.SOCK_STREAM)
-s.bind((ip , 4454))
+s.bind((ip , 4444))
 s.listen(3)
 
 c , addr = s.accept()
